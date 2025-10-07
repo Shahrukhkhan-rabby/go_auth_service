@@ -7,7 +7,7 @@ This is a simple auth service written in Go. It uses JWT for authentication. It 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/asibulhasanshanto/go_auth_service.git
+git clone https://github.com/Shahrukhkhan-rabby/go_auth_service.git
 ```
 
 ### 2. Build and run the service
