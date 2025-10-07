@@ -1,4 +1,4 @@
-module github.com/asibulhasanshanto/go_api
+module github.com/Shahrukhkhan-rabby/go_api
 
 go 1.23.3
 
