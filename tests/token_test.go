@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/asibulhasanshanto/go_api/internal/config"
-	"github.com/asibulhasanshanto/go_api/internal/core"
-	"github.com/asibulhasanshanto/go_api/internal/store"
+	"github.com/Shahrukhkhan-rabby/go_api/internal/config"
+	"github.com/Shahrukhkhan-rabby/go_api/internal/core"
+	"github.com/Shahrukhkhan-rabby/go_api/internal/store"
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"
